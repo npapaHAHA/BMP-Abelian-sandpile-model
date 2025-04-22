@@ -95,7 +95,9 @@ The program determines the **minimal bounding rectangle** that fits all initial 
 | >3          | Black       |
 
 ---
+## 🌀 Demo
 
+![Sandpile GIF](demo.gif)
 ## 🧭 Sample Run
 
 ```bash
@@ -104,9 +106,7 @@ Loads input.tsv
 
 Simulates up to 10,000 steps
 
-## 🌀 Demo
 
-![Sandpile GIF](demo.gif)
 
 
 Saves a BMP every 100 steps into ./frames/
