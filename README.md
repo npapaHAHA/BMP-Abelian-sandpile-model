@@ -104,4 +104,9 @@ Loads input.tsv
 
 Simulates up to 10,000 steps
 
+## 🌀 Demo
+
+![Sandpile GIF](demo.gif)
+
+
 Saves a BMP every 100 steps into ./frames/
